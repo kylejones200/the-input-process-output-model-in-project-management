@@ -1,7 +1,7 @@
 # The Input Process Output Model in Project Management
 
-**Published:** 2024-10-17
-**Medium:** [https://medium.com/@kyle-t-jones/the-input-process-output-model-in-project-management-f8383873c33f](https://medium.com/@kyle-t-jones/the-input-process-output-model-in-project-management-f8383873c33f)
+Published: 2024-10-17
+Medium: [https://medium.com/@kyle-t-jones/the-input-process-output-model-in-project-management-f8383873c33f](https://medium.com/@kyle-t-jones/the-input-process-output-model-in-project-management-f8383873c33f)
 
 ## About
 
