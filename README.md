@@ -11,14 +11,7 @@ Inputs, processes, and outputs are interconnected. The outputs from one phase be
 
 The input-process-output model is a common framework used in project management and systems thinking. The key elements are:
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
